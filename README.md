@@ -6,7 +6,7 @@ Proyek ini menganalisis pola penggunaan layanan bike sharing berdasarkan musim, 
 
 ## Dashboard Online
 
-https://your-dashboard-link.streamlit.app/
+https://dashboardpy-n5ewvfmoee7wkbxwo2srnv.streamlit.app/
 
 ---
 
